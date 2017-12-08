@@ -10,7 +10,7 @@ Works by Wilbirg Brainin-Donnenberg, Eva Claus, Noel Dinse, Fintan Fleischhacker
 
 During the course of the evening there will be three viewings: 20:00 - 21:00 - 22:00
 
-website: http://www.schulefriedlkubelka.at/filmschule/
+Visit the Filmschule's [website](http://www.schulefriedlkubelka.at/filmschule/)
 
 contact: contact.embobada@gmail.com / +32 497 55 08 50
 
