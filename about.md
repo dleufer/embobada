@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: embobada/about/
+permalink: /about/
 ---
 
 Embobada is an empty room in which something can be shown or done.
