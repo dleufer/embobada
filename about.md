@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-Embobada is an empty room in which something can be shown or done.
+embobada is an empty room in which something can be shown or done.
 
 [jekyll-organization]: https://github.com/jekyll
