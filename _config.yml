@@ -19,8 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   embobada is an empty room in which something can be shown or done.
 baseurl: "/embobada" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: embobada
-github_username:  embobada
 
 # Build settings
 markdown: kramdown
