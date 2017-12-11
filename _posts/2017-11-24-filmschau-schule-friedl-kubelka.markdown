@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Filmschau: Schule Friedl Kubelka"
-date:   2017-12-07 13:15:32 +0100
+date:   2017-11-24 13:15:32 +0100
 categories:
 ---
 Embobada is happy to announce an evening of cinema. For the occasion we invited twelve students of the Schule Friedl Kubelka in Vienna, Austria to show a selection of their analog short films made during the year 2016-2017
