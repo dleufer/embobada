@@ -25,3 +25,13 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+# gem 'make', '~> 0.3.1'
+# gem 'devkit', '~> 0.1.0'
+# gem 'github-pages'
+# gem 'commonmarker'
+# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+# This is what the guy tried (followed by 'bundle install') on the following link: https://github.com/github/pages-gem/issues/376
+
+# source 'https://rubygems.org'
+# gem 'github-pages', group: :jekyll_plugins
