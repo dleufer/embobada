@@ -1,0 +1,11 @@
+var store = [{
+        "title": "Filmschau: Schule Friedl Kubelka",
+        "excerpt":"Embobada is happy to announce an evening of cinema. For the occasion we invited twelve students of the Schule Friedl Kubelka in Vienna, Austria to show a selection of their analog short films made during the year 2016-2017 Works by Wilbirg Brainin-Donnenberg, Eva Claus, Noel Dinse, Fintan Fleischhacker, Renger van...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/embobada/filmschau-schule-friedl-kubelka/"
+      },{
+        "title": "upcoming event",
+        "excerpt":"We are in the process of finalizing the details of our next event. Watch this space for an announcement over the coming days contact: contact.embobada@gmail.com / +32 497 55 08 50 ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/embobada/upcoming-event/"
+      },]
